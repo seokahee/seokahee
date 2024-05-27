@@ -110,7 +110,7 @@
 
 <br>
 
-<div style="display: flex;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=seokahee&show_icons=true&theme=transparent" style="width: 50%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokahee&layout=compact" style="width: 45%;" />
 </div>
