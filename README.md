@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%22+%EB%82%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%A0%EA%B1%B0%EC%95%BC!+%22;%22+%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EC%9D%98+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80+%22&center=true&font=Nanum+Pen+Script&size=30&height=80&pause=500" style="width: 100%;">
-</div>
+<a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com/?lines=%22+%EB%82%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%A0%EA%B1%B0%EC%95%BC!+%22;%22+%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EC%9D%98+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80+%22&center=true&font=Nanum+Pen+Script&size=30&height=80&pause=500" style="width: 100%;">
+</a>
 
 
 ## 💻 Blog
