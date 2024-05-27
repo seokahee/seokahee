@@ -12,6 +12,7 @@
 <br>
 
 ## 📚 Skills
+<div style="display: flex;">
 <a>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>
@@ -35,9 +36,11 @@
 <a>
     <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=FFFFFF"/>
 </a>
+</div>
 
 <br>
 
+<div style="display: flex;">
 <a>
     <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/>
 </a>
@@ -46,9 +49,11 @@
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF"/>
 </a>
 
+</div>
 
 <br>
 
+<div style="display: flex;">
 <a>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
 </a>
@@ -68,9 +73,11 @@
 <a href="https://example.com/larger-image" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/>
 </a>
+</div>
 
 <br />
 
+<div style="display: flex;">
 <a>
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF"/>
 </a>
@@ -78,14 +85,13 @@
 <a>
     <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=FFFFFF"/>
 </a>
-
+</div>
 
 <br>
-<br>
-
 
 ## 🔧 Tool
 
+<div style="display: flex;">
 <a>
     <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
@@ -97,13 +103,12 @@
 <a>
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
 </a>
+</div>
+
 
 <br>
 
 <br>
-
-<br>
-
 
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahee&show_icons=true&theme=transparent)
