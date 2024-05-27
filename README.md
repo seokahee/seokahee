@@ -8,10 +8,8 @@
     <img src="https://img.shields.io/badge/Blog-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
-
-<br />
-<br />
-
+<br>
+<br>
 
 ## 📚 Skills
 <a href="https://example.com/larger-image" target="_blank">
@@ -31,14 +29,6 @@
 </a>
 
 <a href="https://example.com/larger-image" target="_blank">
-    <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://example.com/larger-image" target="_blank">
-    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://example.com/larger-image" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF"/>
 </a>
 
@@ -46,7 +36,18 @@
     <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=FFFFFF"/>
 </a>
 
-<br />
+<br>
+
+<a href="https://example.com/larger-image" target="_blank">
+    <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://example.com/larger-image" target="_blank">
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF"/>
+</a>
+
+
+<br>
 
 <a href="https://example.com/larger-image" target="_blank">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
@@ -79,8 +80,8 @@
 </a>
 
 
-<br />
-<br />
+<br>
+<br>
 
 
 ## 🔧 Tool
@@ -96,3 +97,13 @@
 <a href="https://example.com/larger-image" target="_blank">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
 </a>
+
+<br>
+
+<br>
+
+<br>
+
+
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahee&show_icons=true&theme=transparent)
