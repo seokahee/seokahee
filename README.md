@@ -5,7 +5,7 @@
 
 ## 💻 Blog
 <a href="https://kahee430.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TISTORY-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
 <br>
